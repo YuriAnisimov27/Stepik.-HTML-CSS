@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.cards {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.card {
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.container-exp {
+    margin: 0 55px;
+}
+
+.jumbotron {
+    margin-bottom: 2rem;
+}
+
+.container-exp .display-1 {
+    margin-left: -33px;
+}
+
+.container-exp .lead {
+    width: 635px;
+    margin-left: -33px;
+}
+
+.jumbotron .btn {
+    margin-left: -33px;
+}
+
+.text-blue {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #007BFF;
+}
+
+footer {
+    margin-top: 73px;
+    background: #F5F5F5;
+}
